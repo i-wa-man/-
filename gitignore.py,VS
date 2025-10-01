@@ -1,0 +1,10 @@
+# Python 用
+__pycache__/
+*.pyc
+.env/
+
+# Visual Studio 用
+.vs/
+*.user
+bin/
+obj/
